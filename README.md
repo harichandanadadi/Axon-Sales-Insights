@@ -1,7 +1,5 @@
 # Axon Sales Insights
 
-*Power BI Capstone Project*
-
 This project provides actionable insights into Axon company's sales data using Power BI. It helps users understand key sales metrics, trends, and performance through interactive dashboards.
 
 ---
